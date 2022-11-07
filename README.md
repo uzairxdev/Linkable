@@ -16,5 +16,5 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 SIGN IN UI Screen
-![Sign in Screen](https://user-images.githubusercontent.com/117645470/200338299-2e23216c-b7ac-4ba4-b391-173833453f86.png)
 
+<img src="https://user-images.githubusercontent.com/117645470/200338299-2e23216c-b7ac-4ba4-b391-173833453f86.png" width="408">
